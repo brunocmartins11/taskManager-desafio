@@ -4,7 +4,7 @@ Repositório para projeto de gerenciador de tarefas, com o objetivo de realizar 
 
 ## Tecnologias Utilizadas
 
-Para a realização deste projeto, foi necessário utilizar <b>HTML, CSS e TypeScript</b>, utilizando o framework <b>React</b> para realização do Front-End, juntamente ao <b>Node.js</b> para a realização do Back-End e <b>MongoDB</b> de banco de dados orientado a documentos <b>(JSON)</b>.
+Para a realização deste projeto, foi necessário utilizar <b>HTML, CSS e TypeScript</b>, utilizando o framework <b>React</b> para realização do Front-End e <b>BootStrap</b> para o design amigável de fácil entendimento. Junto a isso, é utilizado o <b>Node.js</b> para a realização do Back-End e <b>MongoDB</b> de Banco de Dados Não-Relacional Orientado a Documentos <b>(JSON)</b>.
 
 ## Como Utilizar ?
 
