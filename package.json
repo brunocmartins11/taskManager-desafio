@@ -5,7 +5,6 @@
     "dev": "vite",
     "build": "vite build",
     "start": "vite preview",
-    "server": "concurrently \"tsc --watch\" \"vite\"",
     "vercel-build": "vite build", 
     "deploy": "vercel --prod",     
     "vercel-dev": "vercel dev"    
