@@ -11,7 +11,8 @@ dotenv.config();
 const app = express();
 
 const corsOptions = {
-  origin: 'http://localhost:5173',
+  origin: 'http://https://task-manager-desafio-r4x048tkz-bruno-squad.vercel.app/:5173',
+  methods: ['GET', 'POST', 'PUT', 'DELETE']
 };
 app.use(cors(corsOptions));
 
